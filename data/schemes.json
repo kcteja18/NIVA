@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pmkisan",
+    "name_te": "ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి",
+    "name_en": "PM Kisan Samman Nidhi",
+    "description_te": "రైతులకు సంవత్సరానికి 6000 రూపాయలు ఆర్థిక సహాయం మూడు విడతల్లో అందించబడుతుంది.",
+    "description_en": "Financial assistance of ₹6000 per year to farmers in three installments.",
+    "sector": "agriculture",
+    "eligibility": {
+      "min_age": 18,
+      "income_limit": 200000,
+      "occupation": "farmer",
+      "land_holding_max_hectares": 2
+    },
+    "benefits_te": "సంవత్సరానికి 6000 రూపాయలు",
+    "benefits_en": "₹6000 per year",
+    "documents_te": ["ఆధార్ కార్డ్", "బ్యాంక్ ఖాతా", "భూమి రికార్డులు"],
+    "documents_en": ["Aadhar Card", "Bank Account", "Land Records"]
+  },
+  {
+    "id": "pmay",
+    "name_te": "ప్రధాన మంత్రి ఆవాస్ యోజన",
+    "name_en": "PM Awas Yojana",
+    "description_te": "పేదలకు పక్కా ఇల్లు నిర్మించడానికి ఆర్థిక సహాయం.",
+    "description_en": "Financial assistance to build pucca houses for the poor.",
+    "sector": "housing",
+    "eligibility": {
+      "min_age": 18,
+      "income_limit": 300000,
+      "category": ["EWS", "LIG", "MIG"]
+    },
+    "benefits_te": "2.67 లక్షల రూపాయల వరకు సబ్సిడీ",
+    "benefits_en": "Subsidy up to ₹2.67 lakh",
+    "documents_te": ["ఆధార్ కార్డ్", "ఆదాయ ధృవీకరణ పత్రం", "నివాస ప్రమాణం"],
+    "documents_en": ["Aadhar Card", "Income Certificate", "Residence Proof"]
+  },
+  {
+    "id": "ayushman",
+    "name_te": "ఆయుష్మాన్ భారత్ యోజన",
+    "name_en": "Ayushman Bharat Yojana",
+    "description_te": "పేద కుటుంబాలకు 5 లక్షల రూపాయల వరకు ఉచిత ఆరోగ్య బీమా.",
+    "description_en": "Free health insurance up to ₹5 lakh for poor families.",
+    "sector": "health",
+    "eligibility": {
+      "min_age": 0,
+      "income_limit": 250000,
+      "category": ["BPL"]
+    },
+    "benefits_te": "5 లక్షల రూపాయల వరకు ఉచిత చికిత్స",
+    "benefits_en": "Free treatment up to ₹5 lakh",
+    "documents_te": ["ఆధార్ కార్డ్", "రేషన్ కార్డ్", "BPL ధృవీకరణ పత్రం"],
+    "documents_en": ["Aadhar Card", "Ration Card", "BPL Certificate"]
+  },
+  {
+    "id": "pmjdy",
+    "name_te": "ప్రధాన మంత్రి జన్ ధన్ యోజన",
+    "name_en": "PM Jan Dhan Yojana",
+    "description_te": "అందరు పౌరులకు బ్యాంక్ ఖాతా మరియు ఆర్థిక సేవలు.",
+    "description_en": "Bank account and financial services for all citizens.",
+    "sector": "finance",
+    "eligibility": {
+      "min_age": 10,
+      "income_limit": null,
+      "category": ["all"]
+    },
+    "benefits_te": "జీరో బ్యాలెన్స్ ఖాతా, RuPay కార్డ్, 2 లక్షల బీమా",
+    "benefits_en": "Zero balance account, RuPay card, ₹2 lakh insurance",
+    "documents_te": ["ఆధార్ కార్డ్", "గుర్తింపు పత్రం"],
+    "documents_en": ["Aadhar Card", "Identity Proof"]
+  },
+  {
+    "id": "pmsby",
+    "name_te": "ప్రధాన మంత్రి సురక్ష బీమా యోజన",
+    "name_en": "PM Suraksha Bima Yojana",
+    "description_te": "ప్రమాద బీమా యోజన - సంవత్సరానికి కేవలం 20 రూపాయలు ప్రీమియం.",
+    "description_en": "Accident insurance scheme - only ₹20 per year premium.",
+    "sector": "insurance",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 70,
+      "income_limit": null,
+      "category": ["all"]
+    },
+    "benefits_te": "2 లక్షల రూపాయల ప్రమాద బీమా",
+    "benefits_en": "₹2 lakh accident insurance",
+    "documents_te": ["ఆధార్ కార్డ్", "బ్యాంక్ ఖాతా"],
+    "documents_en": ["Aadhar Card", "Bank Account"]
+  },
+  {
+    "id": "pmuy",
+    "name_te": "ప్రధాన మంత్రి ఉజ్జ్వల యోజన",
+    "name_en": "PM Ujjwala Yojana",
+    "description_te": "BPL కుటుంబాల మహిళలకు ఉచిత LPG కనెక్షన్.",
+    "description_en": "Free LPG connection for women from BPL families.",
+    "sector": "energy",
+    "eligibility": {
+      "min_age": 18,
+      "income_limit": 200000,
+      "category": ["BPL"],
+      "gender": "female"
+    },
+    "benefits_te": "ఉచిత LPG కనెక్షన్ మరియు మొదటి సిలిండర్",
+    "benefits_en": "Free LPG connection and first cylinder",
+    "documents_te": ["ఆధార్ కార్డ్", "BPL కార్డ్", "బ్యాంక్ ఖాతా"],
+    "documents_en": ["Aadhar Card", "BPL Card", "Bank Account"]
+  }
+]

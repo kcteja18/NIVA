@@ -1,0 +1,24 @@
+# Core dependencies
+openai-whisper
+edge-tts
+langchain
+langchain-groq
+langchain-community
+langgraph
+chromadb
+groq
+gradio
+python-dotenv
+
+# STT - IndicWhisper (Hugging Face) for local fallback
+transformers
+torch
+accelerate
+
+# Audio processing
+sounddevice
+scipy
+numpy<2.0
+
+# Utilities
+pypdf
