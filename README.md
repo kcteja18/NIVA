@@ -5,20 +5,20 @@ A voice-first, agentic AI system that helps users discover and apply for governm
 
 ---
 
-## 🎯 Features
+##  Features
 
-- ✅ **Voice-First Interaction**: Complete STT → LLM → TTS pipeline
-- ✅ **Bilingual Support**: Telugu (తెలుగు) + English with automatic language detection
-- ✅ **Agentic Reasoning**: LangGraph StateGraph with Planner-Executor-Synthesizer nodes
-- ✅ **7 Smart Tools**: Vector search, eligibility, comparison, benefits, application steps
-- ✅ **Conversation Memory**: AgentState with user context tracking
-- ✅ **ChromaDB Vector Store**: Semantic search with all-MiniLM-L6-v2 embeddings
-- ✅ **Failure Handling**: Graceful error recovery and clarification requests
-- ✅ **100% Free Stack**: No paid APIs required
+-  **Voice-First Interaction**: Complete STT → LLM → TTS pipeline
+-  **Bilingual Support**: Telugu (తెలుగు) + English with automatic language detection
+-  **Agentic Reasoning**: LangGraph StateGraph with Planner-Executor-Synthesizer nodes
+-  **7 Smart Tools**: Vector search, eligibility, comparison, benefits, application steps
+-  **Conversation Memory**: AgentState with user context tracking
+-  **ChromaDB Vector Store**: Semantic search with all-MiniLM-L6-v2 embeddings
+-  **Failure Handling**: Graceful error recovery and clarification requests
+-  **100% Free Stack**: No paid APIs required
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -65,7 +65,7 @@ A voice-first, agentic AI system that helps users discover and apply for governm
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Prerequisites
 
@@ -120,7 +120,7 @@ The app will open at: **http://localhost:7860**
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Voice Interaction
 
@@ -157,7 +157,7 @@ The app will open at: **http://localhost:7860**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Why | Cost |
 |-----------|------------|-----|------|
@@ -173,7 +173,7 @@ The app will open at: **http://localhost:7860**
 
 ---
 
-## 📊 Government Schemes Database
+##  Government Schemes Database
 
 The system includes 6 major schemes with bilingual data:
 
@@ -186,7 +186,7 @@ The system includes 6 major schemes with bilingual data:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Test different scenarios:
 
